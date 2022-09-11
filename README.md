@@ -1,2 +1,2 @@
 # SchemeSolitaire
-Solitaire emulator on scheme 
+Solitaire emulator developed in scheme 
