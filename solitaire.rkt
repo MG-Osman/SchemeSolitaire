@@ -1,4 +1,4 @@
-;; Spades, clubs, Hearts, Diamonds
+;; Spades, Clubs, Hearts, Diamonds
 ;; Coding cards
 (require racket/list)  ;; shuffle
 
